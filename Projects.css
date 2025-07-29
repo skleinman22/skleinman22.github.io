@@ -1,7 +1,11 @@
-Navigation{
+.Navigation{
     background-color: white;
 }
 
 body {
     background-color: purple;
+}
+
+.About{
+    margin-left: auto;
 }
